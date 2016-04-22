@@ -6,8 +6,7 @@ package LeetCodeGroup.JavaSolutions;
  */
 public class App 
 {
-    public static void main( String[] args )
-    {
+    public void helloWorldFunction() {
         System.out.println( "Hello World!" );
     }
 }
